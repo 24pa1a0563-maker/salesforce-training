@@ -1,0 +1,65 @@
+-> Day 1 - CRM Basics
+
+ 1. What is CRM
+
+CRM stands for **Customer Relationship Management**.
+
+It is a system used by companies to manage customer information, track communication, monitor sales activities, and improve customer service.
+
+CRM helps businesses keep all customer-related data in one place so teams can work more efficiently.
+
+2. Why companies use Salesforce
+
+Companies use Salesforce because it helps them:
+
+- Store customer information in one place
+- Track leads, contacts, and sales opportunities
+- Manage customer interactions
+- Improve teamwork between sales, service, and marketing teams
+- Increase sales and provide better customer support
+
+3. Important Salesforce Terms
+
+1)Account
+
+An **Account** represents a company, organization, or customer business.
+
+**Example:** ABC Technologies
+
+2) Contact
+
+A **Contact** is a person associated with an account.
+
+**Example:** Rahul Sharma, Manager at ABC Technologies
+
+3)Opportunity
+
+An **Opportunity** is a possible sales deal or business deal.
+
+**Example:** ABC Technologies wants to buy software worth ₹2,00,000
+
+4. Business Flow
+
+ Lead → Contact → Opportunity → Customer
+
+A **Lead** is a potential customer who shows interest in a product or service.
+
+When the lead is qualified, it becomes a **Contact**.
+
+If there is a possible business deal, it becomes an **Opportunity**.
+
+When the deal is successfully completed, the person or company becomes a **Customer**.
+
+ 5. Real-World Mapping (College Admission)
+
+ 1) Account
+College or Institution
+
+2) Contact
+Student
+
+3) Lead
+A student who enquires about admission
+
+4) Opportunity
+Student applying for admission in a course
